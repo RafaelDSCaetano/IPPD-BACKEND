@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "descricao": "SUBIR no github",
+    "inicio": 1,
+    "fim": 200,
+    "status": "EM_ANDAMENTO",
+    "resultado": null
+  },
+  {
+    "id": 2,
+    "descricao": "CRIAR TAREFAS",
+    "inicio": 1,
+    "fim": 100,
+    "status": "PENDENTE",
+    "resultado": null
+  }
+]
